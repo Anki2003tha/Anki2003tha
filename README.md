@@ -12,7 +12,7 @@
 - 🎓 **Computer Science (Data Science)** student @ *Moodlakatte Institute of Technology*  
 - 📈 CGPA: **8.47**
 - 💡 Passionate about blending traditional knowledge with modern tech  
-- 💬 Languages I code in: `Python`, `C`, `C++`, `Java`, `HTML`, `CSS`, `JavaScript`
+- 💬 Languages I code in: `Python`, `C`, `C++`, `Java`, `HTML`, `CSS`,`SQL`
 - 🛠 Tools I use: `TensorFlow`, `Android Studio`, `Flask`, `VS Code`, `Git`
 
 ---
