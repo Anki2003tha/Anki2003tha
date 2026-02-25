@@ -1,102 +1,95 @@
-<h1 align="center">👋 Hey, I'm Ankitha Aithal</h1>
-<h3 align="center">🎓 Aspiring Data Science Engineer | 💻 Web & App Developer | 🔍 Curious Tech Explorer</h3>
+<h1 align="center">👋 Hi, I'm Ankitha Aithal</h1>
+<h3 align="center">
+💻 Frontend Developer | 📊 Data Science Student | 🚀 Software Engineer Intern
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=460&lines=Welcome+to+my+GitHub!;Data+Science+Enthusiast+%F0%9F%93%9A;Web+Developer+%F0%9F%92%BB;Machine+Learning+Explorer+%F0%9F%94%8E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Frontend+Development+%F0%9F%92%BB;Data+Science+%26+AI+%F0%9F%93%8A;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🎓 **Computer Science (Data Science)** student @ *Moodlakatte Institute of Technology*  
-- 📈 CGPA: **8.47**
-- 💡 Passionate about blending traditional knowledge with modern tech  
-- 💬 Languages I code in: `Python`, `C`, `C++`, `Java`, `HTML`, `CSS`,`SQL`
-- 🛠 Tools I use: `TensorFlow`, `Android Studio`, `Flask`, `VS Code`, `Git`
+🎓 Computer Science (Data Science) student  
+💼 Software Engineer Intern – Frontend  
+📍 Karnataka, India  
 
----
-
-### 🌟 Featured Projects
-
-#### 🌿 Ayurvedic Plant Recognition App
-> A mobile app that recognizes medicinal plants and shows their Ayurvedic benefits  
-> 🧠 Powered by `TensorFlow` + `Python`, built using `Android Studio`
-
-- 📷 Upload or capture a plant image
-- 🌱 App returns plant name + Ayurvedic uses
-- 💻 *Project demo coming soon*
+I enjoy building **clean, user-friendly web interfaces** and working with **data-driven applications**.  
+I’m passionate about learning new technologies and applying them to real-world problems.
 
 ---
 
-#### 📅 [Calendar-Match App](https://github.com/Anki2003tha/calendar-match)
-> Find and compare years that share the **exact same calendar format**  
-> ✅ *Now live with a working web demo!*
+## 🧠 Skills & Technologies
 
-### 🌐 Try it out now:
-<p align="center">
-  <a href="https://github.com/Anki2003tha/calendar-match" target="_blank">
-    <img src="https://img.shields.io/badge/🔗-View%20on%20GitHub-blue?style=for-the-badge" />
-  </a>
-  <a href="https://calendar-match.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀-Try%20Live%20Demo-brightgreen?style=for-the-badge" />
-  </a>
-</p>
+**Frontend**
+- HTML • CSS • JavaScript • React  
 
-**Key Features:**
-- 📅 Enter any year to find similar calendars  
-- 🔄 Compare multiple years side-by-side  
-- ⚠️ See major **natural disasters** from those years  
-- 🔮 Upcoming: Astrology + planetary alignment analysis  
-- 💻 Built using Python + Flask + Pandas (frontend in Streamlit for demo)
+**Programming & Data**
+- Python • C • C++ • Java • SQL  
+- Pandas • NumPy • Machine Learning basics  
+
+**Tools & Frameworks**
+- Git • GitHub • Flask • Streamlit • VS Code  
 
 ---
 
-### 🧠 Skills & Interests
+## 🌟 Featured Projects
 
-- 💻 **Programming**: Python, C, C++, Java, HTML, CSS, JS
-- 🧰 **Tools**: VS Code, Git, TensorFlow, Android Studio, Flask, Streamlit
-- 📊 **Domains**: Data Science, Web Development, Image Recognition, Logic & Problem Solving
-- 🎨 **Creative**: UI/UX Design, Drawing, Sketching, Dance
+### 🌿 Ayurvedic Plant Recognition App
+📌 Identifies medicinal plants from images and displays Ayurvedic benefits  
 
----
+**Tech Stack:** Python, TensorFlow, OpenCV, Android Studio  
 
-### 📚 Certifications
-
-- 📜 **Young Python Professional** – Infosys Springboard *(2024)*
-- ☕ **Programming in Java** – NPTEL *(2024)*
-- 📊 **Google Data Analytics** – Coursera *(2023)*
-- 📈 **Excel for Beginners** – Great Learning *(2023)*
+- Image-based plant recognition  
+- Displays plant uses and medicinal properties  
 
 ---
 
-### 💬 Contact Me
+### 📅 Calendar Match Application
+📌 Finds years with the same calendar pattern and compares events  
 
-- 📫 Email: [ankithaaithal2014@gmail.com](mailto:ankithaaithal2014@gmail.com)
-- 💼 LinkedIn: [ankitha-aithal](https://www.linkedin.com/in/ankitha-aithal-a02453258/)
-- 🌍 Location: Udupi District, Karnataka, India
+**Tech Stack:** Python, Flask, Pandas, Streamlit  
 
----
-
-### ⚡ Fun Facts
-
-- 🧠 Logic puzzle addict
-- 💃 Dancing is my way to de-stress
-- 🎨 Sketching enhances my UI/UX sense
-- 📚 Self-learner, always experimenting with tech
+🔗 [GitHub Repo](https://github.com/Anki2003tha/calendar-match)  
+🚀 [Live Demo](https://calendar-match.streamlit.app/)  
 
 ---
 
-### 📊 GitHub Stats
+### 👗 Cheetah Fashions (Live Project)
+📌 Frontend development for a real-world application  
+
+**Tech Stack:** HTML, CSS, React  
+
+- Component-driven UI development  
+- Reusable and responsive components  
+
+---
+
+## 📜 Certifications
+
+- Google Data Analytics – Coursera  
+- Young Python Professional – Infosys Springboard  
+- Programming in Java – NPTEL  
+- Excel for Beginners – Great Learning  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ankitha-aithal-a02453258  
+- 📧 Email: ankithaaithal2014@gmail.com  
+- 💻 GitHub: https://github.com/Anki2003tha  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anki2003tha&show_icons=true&theme=radical" alt="Ankitha's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anki2003tha&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anki2003tha&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anki2003tha&layout=compact&theme=radical" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Anki2003tha.visitor-badge" alt="visitor badge"/>
-</p>
-
+✨ *Always learning, building, and improving.*
