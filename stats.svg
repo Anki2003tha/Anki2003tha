@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="280" viewBox="0 0 520 280">
+<defs><linearGradient id="g"><stop stop-color="#ff2ca8"/><stop offset="1" stop-color="#8d55ff"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="5" y="5" width="510" height="270" rx="26" fill="#09030e" stroke="#ff2ca8" stroke-width="2"/>
+<text x="28" y="42" font-family="Arial" font-size="18" fill="#ff72d3" font-weight="700">⌁ GITHUB STATS</text>
+<circle cx="145" cy="145" r="78" fill="none" stroke="#28132f" stroke-width="16"/><circle cx="145" cy="145" r="78" fill="none" stroke="url(#g)" stroke-width="16" stroke-linecap="round" stroke-dasharray="390 100" transform="rotate(-90 145 145)" filter="url(#glow)"><animate attributeName="stroke-dasharray" values="0 490;390 100" dur="1.6s" fill="freeze"/></circle>
+<text x="145" y="150" text-anchor="middle" font-family="Arial" font-size="40" fill="#fff" font-weight="800">A+</text><text x="145" y="172" text-anchor="middle" font-family="Arial" font-size="12" fill="#ff72d3">BUILD MODE</text>
+<g font-family="Arial" fill="#fff" font-size="15"><text x="270" y="88">Public repositories</text><text x="450" y="88" text-anchor="end" fill="#ff72d3" font-weight="700">7</text><text x="270" y="130">Followers</text><text x="450" y="130" text-anchor="end" fill="#ff72d3" font-weight="700">2</text><text x="270" y="172">Stars</text><text x="450" y="172" text-anchor="end" fill="#ff72d3" font-weight="700">1</text><text x="270" y="214">Focus</text><text x="450" y="214" text-anchor="end" fill="#ff72d3" font-weight="700">Frontend + Data</text></g>
+<text x="260" y="250" font-family="Arial" font-size="13" fill="#caa9c7">Always learning, building &amp; improving.</text>
+</svg>
